@@ -4,3 +4,4 @@ Numpy >= 1.18.1
 Imgaug >= 0.4.0
 Pillow >= 7.0.0
 Pandas >= 1.0.0
+Scipy >= 1.4.1
