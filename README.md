@@ -4,17 +4,17 @@ Code files to accompany the paper *"Multibeat Echocardiographic Phase Detection 
 ### Step 1
 Place the videos from your dataset in the following directories:
 
-> >	| /data/test
-> > >		...
-> >	| /data/train
-> > >		...
+> | /data/test
+> >		...
+> | /data/train
+> >		...
 
 ### Step 2
 Generate the target labels and place in the data folder with the filename 'labels.csv'.
 
 Csv format:
 
-| Image Name  | Label |
+| Video frame name | Label |
 | ------------- | ------------- |
 | video1_1_1  | 0.92  |
 | video1_1_2 | 0.83  |
@@ -32,6 +32,8 @@ Csv format:
 
 ### Step 4
 Run train.py with the following args:   sequence_length image_height   image_width   batch_size   number_of_epochs
+
+For example:
 
 `	$ python train.py 30 112 112 2 1000`
 
