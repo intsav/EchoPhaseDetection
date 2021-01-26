@@ -39,3 +39,5 @@ For example:
 
 ### Step 5
 Generate predictions from `data/predictions/run_predictions.py` using the saved model with the best weights from training.
+
+Download the trained model weights: https://drive.google.com/file/d/17i57RwoOkfrDErBlEHhRbKTmbmD4BQUu/view?usp=sharing
