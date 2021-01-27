@@ -41,4 +41,4 @@ For example:
 Generate predictions from `data/predictions/run_predictions.py` using the saved model with the best weights from training.
 
 ### Trained model weights
-https://drive.google.com/file/d/17i57RwoOkfrDErBlEHhRbKTmbmD4BQUu/view?usp=sharing
+[Download trained model weights](https://drive.google.com/file/d/17i57RwoOkfrDErBlEHhRbKTmbmD4BQUu/view?usp=sharing)
