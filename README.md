@@ -4,9 +4,9 @@ Code files to accompany the paper *"Multibeat Echocardiographic Phase Detection 
 ### Step 1
 Place the videos from your dataset in the following directories:
 
-> | /data/test
+> | code/data/test
 > >		...
-> | /data/train
+> | code/data/train
 > >		...
 
 ### Step 2
