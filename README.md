@@ -1,5 +1,6 @@
 # EchoPhaseDetection
 Code files to accompany the paper *"Multibeat Echocardiographic Phase Detection Using Deep Neural Networks".*
+For more details about this study, including access to the dataset, please visit: https://intsav.github.io/phase_detection.html
 
 ### Step 1
 Place the videos from your dataset in the following directories:
